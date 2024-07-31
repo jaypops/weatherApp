@@ -134,9 +134,9 @@ h2.city {
   display: none;
 }
 @media screen and (min-width: 320px) and (max-width: 750px) {
-  .main_body {
+/*   .main_body {
     display: none;
-  }
+  } */
   .hidden {
     display: block;
   }
